@@ -1,0 +1,13 @@
+﻿  Tmber.cpp
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(293,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(323,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(386,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(390,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(417,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(421,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(445,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(449,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(473,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(477,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Tmber\Tmber\Tmber.cpp(504,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Tmber.vcxproj -> C:\VS Projects\Tmber\Debug\Tmber.exe
